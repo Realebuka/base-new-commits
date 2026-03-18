@@ -15,3 +15,4 @@ pick up laptop
 put laptop in the bag
 step out the door
 make way to the elevator
+get in the elevator
