@@ -22,3 +22,4 @@ get into car
 start car
 drive into the highway
 play music
+stop at traffic light
