@@ -32,3 +32,4 @@ get to the 15th floor
 step ou the elevator
 make way to deskspace
 turn on the computer
+input password
