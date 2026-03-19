@@ -60,3 +60,4 @@ wake up from a nap
 get ready for dinner
 drive out to a nice restaurant
 request for menu
+choose an option on the menu
