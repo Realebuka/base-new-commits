@@ -65,3 +65,4 @@ wait for order to be fulfilledd
 read the news as you wait
 recieve food from waiter
 savor the meal
+enjoy the food
