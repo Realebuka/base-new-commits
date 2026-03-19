@@ -38,3 +38,4 @@ open email
 check spam
 lookout for meeting email
 open meeting link
+join meeting
