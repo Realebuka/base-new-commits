@@ -77,3 +77,4 @@ change into pyjamas
 scroll through phone
 read the news
 finish reading the news
+check on my plants
