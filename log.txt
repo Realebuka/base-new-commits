@@ -35,3 +35,4 @@ turn on the computer
 input password
 refresh desktop
 open email
+check spam
