@@ -62,3 +62,4 @@ drive out to a nice restaurant
 request for menu
 choose an option on the menu
 wait for order to be fulfilledd
+read the news as you wait
