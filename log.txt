@@ -41,3 +41,4 @@ open meeting link
 join meeting
 take notes in meeting
 speak in meeting
+end meeting
