@@ -51,3 +51,4 @@ move to the parking lot
 locate car
 get into car
 drive home
+get into the house
