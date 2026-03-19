@@ -47,3 +47,4 @@ eat lunch
 get back to work
 close from work
 enter the elevator
+move to the parking lot
