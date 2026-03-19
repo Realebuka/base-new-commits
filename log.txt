@@ -40,3 +40,4 @@ lookout for meeting email
 open meeting link
 join meeting
 take notes in meeting
+speak in meeting
