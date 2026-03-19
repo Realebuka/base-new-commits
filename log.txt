@@ -63,3 +63,4 @@ request for menu
 choose an option on the menu
 wait for order to be fulfilledd
 read the news as you wait
+recieve food from waiter
