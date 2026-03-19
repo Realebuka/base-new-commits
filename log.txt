@@ -42,3 +42,4 @@ join meeting
 take notes in meeting
 speak in meeting
 end meeting
+go out for lunch break
