@@ -45,3 +45,4 @@ end meeting
 go out for lunch break
 eat lunch
 get back to work
+close from work
