@@ -57,3 +57,4 @@ make some food
 eat the food
 get some rest
 wake up from a nap
+get ready for dinner
